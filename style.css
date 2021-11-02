@@ -1,0 +1,57 @@
+body {
+    display:flex;
+    flex-direction: column;
+    background-color:#2e3047;
+    color:#d2d3d3;
+    font-family: 'Ubuntu Mono';
+}
+.accent {
+    color:#3bba9c;
+}
+.lower {
+    color:#babdbd;
+}
+#navbar {
+    display:flex;
+    justify-content: flex-end;
+    gap:20px;
+}
+
+#header {
+    height:100vh;
+    margin-left:20px;
+    text-align: start;
+}
+#header p {
+    font-size:30px;
+    margin-bottom: 0px;;
+}
+h1 {
+    font-size:70px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#header h2 {
+    font-size:50px;
+    margin-top: 10px;
+}
+
+#about {
+    height:50vh;
+    text-align: center;
+}
+
+#projects {
+    height:50vh;
+}
+
+#cv {
+    height:50vh;
+    margin-bottom: auto;
+}
+
+#contact {
+    display:flex;
+    gap:20px;
+    justify-content: flex-end;
+}
