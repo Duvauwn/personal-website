@@ -17,3 +17,4 @@ As well as all this, I also hope to learn more about creating a website.
 . There should be a page with my projects
 . There should be an about page
 . There should be a Contact page
+. The website should be responsive
